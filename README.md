@@ -161,7 +161,7 @@ del archivo xml através del Singletron ConnectorFactory.
 
 ### Notas Finales
 
-## Drives JDBC
+## Drivers JDBC
 
 Los drivers JDBC deben descargarse en el proyecto para poder crear los CONNECTOR o DATASOURCES
 necesarios. Integrarlos manualmente o con algún sistema de repositorio tipo MAVEN.
