@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sqlengines default="kronexilane_test">
+    <engine description="Data Source en www.kronexilane.org (TEST)" class="Test.db.datasources.ConnectorToTest"
+            key="kronexilane_test"/>
+</sqlengines>
