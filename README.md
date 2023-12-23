@@ -110,6 +110,7 @@ no se específica otra cosa.
  ~~~
     @DejaEntity(name="NombreTabla")
     public class MiEntidad{
+        @DejaPrimaryKey(autonumeric=true|false) 
         private Type1 Campo1;
         private Type2 Campo2;
         ....
