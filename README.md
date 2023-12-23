@@ -57,7 +57,7 @@ DEJA funciona de la siguiente manera:
 
 1. Creamos una clase que extienda de CONNECTOR con los parámetros necesarios para la conexión a nuestro entorno de
    datos.
-   y sobreescribimos el método getParameters poniendo el driver JDBC (que debe estar precargado en el ID para su
+   y sobreescribimos el método getParameters poniendo el driver JDBC (que debe estar precargado en el IDE para su
    compilación),
    la URL de conexión y el par USUARIO/CONTRASEÑA para conectarse a la base de datos.
 
