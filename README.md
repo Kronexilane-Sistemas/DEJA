@@ -173,9 +173,5 @@ En la carpeta **out/release** se encuentra una versión ya compilada de la libre
 *kronexilane-deja-1.0.jar*
 y una versión de la Libreria JAVADOC **kronexilane-deja-javadoc.jar** con su ayuda para los entornos que lo admitan
 
-## Proyecto de Test
-
-El proyecto tal cual se descarga dispone de un paquete de Test con unas clases sencillas
-que conectan a una base de datos remota y limitada de pruebas de mi propio servidor web.
 **Recordamos la necesidad de descargar el driver JDBC de MySQL para poder conectarse a la
 base de datos de test.**
