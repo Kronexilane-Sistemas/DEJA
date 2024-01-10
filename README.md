@@ -88,8 +88,8 @@ DEJA funciona de la siguiente manera:
 
 Las claves de cada entrada son:
 
-*description:* Descripción del origen de datos
-*class:* Clase conectora
+*description:* Descripción del origen de datos,
+*class:* Clase conectora,
 *key:* Clave para referirse a ella.
 
 con *default* indicamos la clase conectora por defecto a la que se conectarán todas las clases DAO si
